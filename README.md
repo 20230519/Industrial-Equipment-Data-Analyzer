@@ -4,7 +4,6 @@ This project is a Python-based equipment monitoring and alert system that analyz
 
 ## Features
 
-- **Data Simulation**: Generates sample data for testing.
 - **Data Analysis**: Cleans data, identifies anomalies in temperature and pressure, and generates visual reports.
 - **Email Alerts**: Sends email notifications with attached reports when anomalies are detected.
 
