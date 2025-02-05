@@ -37,12 +37,7 @@ smtp_port = 587
 
 ## Usage
 
-1. **Generate Sample Data** (only required for the first run):
-   Uncomment the line in `main.py`:
-   ```python
-   # generate_sample_data()
-   ```
-2. **Run the Script**:
+1. **Run the Script**:
    ```bash
    python main.py
    ```
