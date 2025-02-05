@@ -38,7 +38,7 @@ smtp_port = 587
 
 1. **Run the Script**:
    ```bash
-   python main.py
+   python data_analyzer.py
    ```
 
 ## Output
