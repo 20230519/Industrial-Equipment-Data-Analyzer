@@ -22,7 +22,7 @@ This project is a Python-based equipment monitoring and alert system that analyz
 
 ## Configuration
 
-Configure your email settings in the `config.ini` file located in the `src` folder.
+Configure your email settings in the `config.ini`.
 
 ### Example `config.ini`:
 
