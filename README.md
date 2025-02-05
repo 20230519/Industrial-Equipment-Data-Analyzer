@@ -65,5 +65,5 @@ smtp_port = 587
 - If anomalies are detected, an email with the report attached will be sent to the configured recipient.
 
 ### Example Report
-![Example Report](images/report_20240205.png)
+![Example Report](report_20240205.png)
 
